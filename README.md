@@ -5,4 +5,5 @@ It is even available for Collaboration
 ##code index
 https://github.com/1608-Bhanuprasad/code_snippets/blob/main/Factorial.java  
 https://github.com/1608-Bhanuprasad/code_snippets/blob/main/palindrome.py
+https://github.com/1608-Bhanuprasad/code_snippets/blob/main/Fibonacci.c
 
